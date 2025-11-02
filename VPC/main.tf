@@ -100,3 +100,5 @@ resource "aws_security_group" "EC2instance_SG" {
     cidr_blocks = ["0.0.0.0/0"]
   }
 }
+
+##end of today 11/3
